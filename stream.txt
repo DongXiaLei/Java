@@ -1,0 +1,40 @@
+public class TreeMap<K,V>
+    extends AbstractMap<K,V>
+    
+implements NavigableMap<K,V>, Cloneable, java.io.Serializable
+
+{
+    // 比较器对象
+    private final Comparator<? super K> comparator;
+
+   
+ // 根节点
+    private transient Entry<K,V> root;
+
+   
+ // 集合大小
+    private transient int size = 0;
+
+   
+ // 树结构被修改的次数
+    private transient int modCount = 0;
+
+    
+// 静态内部类用来表示节点类型
+    
+static final class Entry<K,V> implements Map.Entry<K,V> 
+{
+        K key;     // 键
+        V value;   // 值
+        Entry<K,V> left;    
+// 指向左子树的引用（指针）
+        Entry<K,V> right;   // 指向右子树的引用（指针）
+      
+  Entry<K,V> parent;  // 指向父节点的引用（指针）
+        boolean color = BLACK; // 
+    }
+--------------------- 
+作者：name_s_Jimmy 
+来源：CSDN 
+原文：https://blog.csdn.net/qq_32166627/article/details/72773293 
+版权声明：本文为博主原创文章，转载请附上博文链接！
