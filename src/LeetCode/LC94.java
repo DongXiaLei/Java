@@ -1,6 +1,5 @@
 package LeetCode;
 
-import javax.swing.tree.TreeNode;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -12,14 +11,13 @@ import java.util.List;
 
 public class LC94 {
     public static void main(String [] args){
-        inorderTraversal(root);
+        inorderTraversal(null);
+        LC94 lc94 = new LC94();
+        LC94.TreeNode  root =lc94.new TreeNode(1);
+
+        List<Integer> ls = inorderTraversal(root);
     }
-    class TreeNode{
-        int val;
-        TreeNode left;
-        TreeNode right ;
-        public TreeNode(int val ){this.val = val;}
-    }
+
     public static List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
         inorder(root,ans);
@@ -32,5 +30,11 @@ public class LC94 {
             inorder(root.right,ans);
         }
     }
-
+    class TreeNode{
+        int val;
+        TreeNode left;
+        TreeNode right ;
+        public TreeNode(int val ){this.val = val;}
+    }
 }
+

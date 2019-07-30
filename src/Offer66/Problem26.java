@@ -34,6 +34,7 @@ public class Problem26 {
         if(root1.data!= root2.data)return false;
         return isTree1HasTree2(root1.left,root2.left) && isTree1HasTree2(root1.right,root2.right);
     }
+
 }
 class TreeNode{
     int data ;
@@ -87,7 +88,7 @@ class TreeNode{
             printPreOrder(root.left);
             printPreOrder(root.right);
             if(root.father!=null){
-               //System.out.println(" "+root.father.data);
+                //System.out.println(" "+root.father.data);
             }
         }
     }

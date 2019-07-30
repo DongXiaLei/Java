@@ -13,11 +13,6 @@ package LeetCode;
  *     ListNode(int x) { val = x; }
  * }
  */
-class ListNode{
-    int val;
-    ListNode next;
-    ListNode(int x){val = x;}
-        }
 public class LC2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode p = l1,q = l2;
