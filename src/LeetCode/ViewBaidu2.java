@@ -13,7 +13,7 @@ package LeetCode;
       DP掌握不熟练，给武大丢人了，对不起。
 * */
 
-public class BaiduView2 {
+public class ViewBaidu2 {
     public static void main(String[] args){
         int [] array1 = {-2,3,2,1};
         int [] array2 = {-0,6,5,4};

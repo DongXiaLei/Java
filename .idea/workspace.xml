@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dffd02d-f626-4de3-ae57-270e4cc00016" name="Default Changelist" comment="LC77">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/BaiduView2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ViewBaidu3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ViewPinDuo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ViewpinDuo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/BaiduView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/BaiduView2.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OfferDays/Offer66/TreeNODE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OfferDays/Offer66/TreeNODE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/BaiduView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/ViewBaidu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/BaiduView2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/ViewBaidu2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,20 +44,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/BaiduView2.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/ViewpinDuo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="62" column="15" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
+            <state relative-caret-position="125">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/ViewPinDuo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="698">
+              <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+              <folding>
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/BaiduView.java">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/ViewBaidu3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1318">
-              <caret line="81" column="28" lean-forward="true" selection-start-line="78" selection-start-column="8" selection-end-line="81" selection-end-column="28" />
+            <state relative-caret-position="548">
+              <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/LC121.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/LC114.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="21" column="40" selection-start-line="11" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/LC105.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="31" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,10 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LeetCode/LC20.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LC21.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LC22.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/LC23.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LC31.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LC32.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/LC33.java" />
@@ -135,6 +181,10 @@
         <option value="$PROJECT_DIR$/src/LeetCode/LC124.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/BaiduView.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/BaiduView2.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/pinDuoView.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/ViewpinDuo.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/ViewBaidu3.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/ViewPinDuo2.java" />
       </list>
     </option>
   </component>
@@ -144,7 +194,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
@@ -156,6 +206,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,7 +229,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,9 +262,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BaiduView2">
-    <configuration name="BaiduView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.BaiduView" />
+  <component name="RunManager" selected="Application.ViewBaidu3">
+    <configuration name="ViewBaidu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ViewBaidu" />
       <module name="OfferDays" />
       <extension name="coverage">
         <pattern>
@@ -226,8 +276,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaiduView2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.BaiduView2" />
+    <configuration name="ViewBaidu2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ViewBaidu2" />
       <module name="OfferDays" />
       <extension name="coverage">
         <pattern>
@@ -239,8 +289,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.LC121" />
+    <configuration name="ViewBaidu3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ViewBaidu3" />
       <module name="OfferDays" />
       <extension name="coverage">
         <pattern>
@@ -252,8 +302,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.LC136" />
+    <configuration name="ViewPinDuo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ViewPinDuo2" />
       <module name="OfferDays" />
       <extension name="coverage">
         <pattern>
@@ -265,8 +315,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC139" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.LC139" />
+    <configuration name="ViewpinDuo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ViewpinDuo" />
       <module name="OfferDays" />
       <extension name="coverage">
         <pattern>
@@ -280,11 +330,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BaiduView2" />
-        <item itemvalue="Application.BaiduView" />
-        <item itemvalue="Application.LC139" />
-        <item itemvalue="Application.LC136" />
-        <item itemvalue="Application.LC121" />
+        <item itemvalue="Application.ViewBaidu3" />
+        <item itemvalue="Application.ViewPinDuo2" />
+        <item itemvalue="Application.ViewpinDuo" />
+        <item itemvalue="Application.ViewBaidu2" />
+        <item itemvalue="Application.ViewBaidu" />
       </list>
     </recent_temporary>
   </component>
@@ -318,6 +368,8 @@
       <workItem from="1564106162992" duration="46569000" />
       <workItem from="1564472708997" duration="11555000" />
       <workItem from="1564500009768" duration="2993000" />
+      <workItem from="1564733033237" duration="4211000" />
+      <workItem from="1564750344636" duration="1033000" />
     </task>
     <task id="LOCAL-00001" summary="LC77">
       <created>1564117130365</created>
@@ -330,7 +382,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="440186000" />
+    <option name="totallyTimeSpent" value="445430000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,10 +394,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16491511" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -355,7 +407,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3261105" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32006633" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3033586" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32929516" />
@@ -377,7 +429,7 @@
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16491511" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16684435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -387,7 +439,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3261105" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31310943" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3033586" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32929516" />
@@ -396,7 +448,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32719395" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32669982" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -992,15 +1044,33 @@
           <option name="timeStamp" value="337" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/BaiduView.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/ViewBaidu.java</url>
           <properties />
           <option name="timeStamp" value="339" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/BaiduView.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/ViewBaidu.java</url>
           <line>83</line>
           <properties />
           <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/ViewpinDuo.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/ViewPinDuo2.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/ViewBaidu3.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="354" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1009,27 +1079,6 @@
     <SUITE FILE_PATH="coverage/OfferDays$Problem25.ic" NAME="Problem25 Coverage Results" MODIFIED="1562057402834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LC32.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LC31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Offer66/Problem8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Offer66/Problem10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -1309,16 +1358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1333,21 +1372,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LC105.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LC2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="31" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="308">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/ViewBaidu2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="62" column="15" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LC114.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LC141.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="40" selection-start-line="11" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="320">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LC139.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1358,26 +1420,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LC141.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LC139.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/LC128.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
+        <state relative-caret-position="717">
           <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1387,36 +1432,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/LC124.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="225">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/ViewBaidu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/ViewpinDuo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/LC121.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="225">
           <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/LC2.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LC114.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state relative-caret-position="525">
+          <caret line="21" column="40" selection-start-line="11" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/BaiduView.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/LC105.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1318">
-          <caret line="81" column="28" lean-forward="true" selection-start-line="78" selection-start-column="8" selection-end-line="81" selection-end-column="28" />
+        <state relative-caret-position="725">
+          <caret line="31" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/BaiduView2.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/ViewBaidu3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="62" column="15" selection-start-line="62" selection-start-column="15" selection-end-line="62" selection-end-column="15" />
+        <state relative-caret-position="548">
+          <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/ViewPinDuo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+          <folding>
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
