@@ -5,7 +5,7 @@ package LeetCode;
  * @version 1.0
  * @date 2019/7/30 15:45
  */
-public class BaiduView {
+public class ViewBaidu {
     public static void main(String[] args){
         int [] array1 = {-2,56,12,3,78,19};
         int [] array2 = {-34,23,19,45,28,12};

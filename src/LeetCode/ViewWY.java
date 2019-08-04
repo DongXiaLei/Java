@@ -2,7 +2,7 @@ package LeetCode;
 
 import java.util.Scanner;
 
-public class VIewWY {
+public class ViewWY {
     public static void main(String[] args){
         int n ,q;
         Scanner in = new Scanner(System.in);
