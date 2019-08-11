@@ -1,4 +1,4 @@
-package LeetCode;
+package ViewTest;
 
 /**
  * @author Xialei Dong
