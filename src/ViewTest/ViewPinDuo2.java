@@ -7,6 +7,10 @@ import java.util.Scanner;
  * @version 1.0
  * @date 2019/8/2 16:27
  */
+/*
+* 输入一个字符串数组，只考虑第一个和最后一个字符
+* 判断这个字符串数组能否连成一个环
+* */
 public class ViewPinDuo2 {
     public static void main(String[] agrs){
         Scanner in   = new Scanner(System.in);

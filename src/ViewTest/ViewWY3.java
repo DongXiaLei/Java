@@ -2,6 +2,15 @@ package ViewTest;
 
 import java.util.Scanner;
 
+/*
+* 对于一个整数数组
+* 请实现这个数组的最小的字典序排列
+* 要求交换元素时只能交换为两个元素和为奇数的元素
+*
+* 思路：
+* 若数组中有奇数和偶数直接排序就好
+* 若只有奇数或者偶数 直接输出
+* */
 public class ViewWY3 {
     public  static void main(String[] args){
         Scanner in = new Scanner(System.in);

@@ -1,61 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="5d9fda24-049b-4bae-a9db-5adb39d6f2c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeike1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeike2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeike3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeike4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeike5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeike6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeike7.java" afterDir="false" />
+    <list default="true" id="a967c46c-6d43-44bf-bdc9-13e6ccc1fce6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewpinDuo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/LC102.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/LC102.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/LC104.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/LC104.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/LC105.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/LC105.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/LC114.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/LC114.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/LC124.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/LC124.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/VIewWY.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/ViewBaidu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/ViewBaidu2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/ViewBaidu3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/ViewPinDuo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/ViewWY2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/ViewWY3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/ViewYTK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/ViewYTK2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/LeetCode/ViewpinDuo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/Offer66/TreeNODE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OfferDays/Offer66/TreeNODE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/LC102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LC102.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/LC104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LC104.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/LC105.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LC105.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/LC114.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LC114.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/LC124.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LC124.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ViewBaidu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewTest/ViewBaidu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ViewBaidu2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewTest/ViewBaidu2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ViewBaidu3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewTest/ViewBaidu3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ViewPinDuo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewTest/ViewPinDuo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ViewWY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewTest/ViewWY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ViewWY2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewTest/ViewWY2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ViewWY3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewTest/ViewWY3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ViewYTK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewTest/ViewYTK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ViewYTK1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewTest/ViewYTK1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ViewYTK2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewTest/ViewYTK2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ViewpinDuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewTest/ViewpinDuo.java" afterDir="false" />
-=======
-    <list default="true" id="eeba93bc-27c0-4c8f-9fb7-9db3aaf1b986" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/VIewBeikeB3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeikeB1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeikeB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeikeB4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeikeB5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
+      <change beforePath="$PROJECT_DIR$/out/production/OfferDays/ViewTest/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OfferDays/ViewTest/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewTest/ViewPinDuo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewTest/ViewPinDuo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewTest/ViewWY3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewTest/ViewWY3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,51 +15,44 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeike5.java">
+        <entry file="file://$PROJECT_DIR$/src/ViewTest/Viewbeikefinal4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+            <state relative-caret-position="672">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewpinDuo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeike7.java">
+        <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewpinDuo3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="3" lean-forward="true" selection-start-line="10" selection-end-line="11" selection-end-column="20" />
-=======
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ViewTest/Main.java">
+            <state relative-caret-position="798">
+              <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewPinDuo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1540">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
+            <state relative-caret-position="398">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -122,45 +66,26 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <dirStrings>
-      <dir>C:\Users\15940\Desktop\OfferDays\Java\src</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeike1.java" />
-        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeike2.java" />
-        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeike3.java" />
-        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeike4.java" />
-        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeike6.java" />
-        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeike5.java" />
-        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeike7.java" />
-=======
-        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeikeB1.java" />
-        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeikeB5.java" />
-        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeike1.java" />
-        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeikeB2.java" />
-        <option value="$PROJECT_DIR$/src/ViewTest/VIewBeikeB3.java" />
-        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeikeB4.java" />
+        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeikefinal1.java" />
+        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeikefinal2.java" />
+        <option value="$PROJECT_DIR$/src/ViewTest/ViewBeikefinal3.java" />
         <option value="$PROJECT_DIR$/src/ViewTest/Main.java" />
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
+        <option value="$PROJECT_DIR$/src/ViewTest/Viewbeikefinal4.java" />
+        <option value="$PROJECT_DIR$/src/ViewTest/ViewWY3.java" />
+        <option value="$PROJECT_DIR$/src/ViewTest/ViewPinDuo2.java" />
+        <option value="$PROJECT_DIR$/src/ViewTest/ViewpinDuo3.java" />
       </list>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1938" />
     <option name="height" value="1056" />
   </component>
@@ -169,6 +94,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,7 +118,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -207,87 +132,9 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.ViewBeike7">
-    <configuration name="ViewBeike3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ViewTest.ViewBeike3" />
-=======
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ViewTest.Main" />
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
-      <module name="OfferDays" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ViewTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="ViewBeike4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ViewTest.ViewBeike4" />
-=======
-    <configuration name="VIewBeikeB3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ViewTest.VIewBeikeB3" />
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
-      <module name="OfferDays" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ViewTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="ViewBeike5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ViewTest.ViewBeike5" />
-=======
-    <configuration name="ViewBeikeB1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ViewTest.ViewBeikeB1" />
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
-      <module name="OfferDays" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ViewTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="ViewBeike6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ViewTest.ViewBeike6" />
-=======
-    <configuration name="ViewBeikeB2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ViewTest.ViewBeikeB2" />
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
-      <module name="OfferDays" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ViewTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="ViewBeike7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ViewTest.ViewBeike7" />
-=======
-    <configuration name="ViewBeikeB4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ViewTest.ViewBeikeB4" />
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
       <module name="OfferDays" />
       <extension name="coverage">
         <pattern>
@@ -301,19 +148,7 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Application.ViewBeike7" />
-        <item itemvalue="Application.ViewBeike5" />
-        <item itemvalue="Application.ViewBeike6" />
-        <item itemvalue="Application.ViewBeike4" />
-        <item itemvalue="Application.ViewBeike3" />
-=======
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ViewBeikeB4" />
-        <item itemvalue="Application.VIewBeikeB3" />
-        <item itemvalue="Application.ViewBeikeB2" />
-        <item itemvalue="Application.ViewBeikeB1" />
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
       </list>
     </recent_temporary>
   </component>
@@ -322,295 +157,213 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="5d9fda24-049b-4bae-a9db-5adb39d6f2c1" name="Default Changelist" comment="" />
-      <created>1565146201302</created>
+      <changelist id="a967c46c-6d43-44bf-bdc9-13e6ccc1fce6" name="Default Changelist" comment="" />
+      <created>1565525899569</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565146201302</updated>
-      <workItem from="1565146204506" duration="12934000" />
-=======
-      <changelist id="eeba93bc-27c0-4c8f-9fb7-9db3aaf1b986" name="Default Changelist" comment="" />
-      <created>1565423559066</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1565423559066</updated>
-      <workItem from="1565423563827" duration="13775000" />
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
+      <updated>1565525899569</updated>
+      <workItem from="1565525900686" duration="3085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="12934000" />
+    <option name="totallyTimeSpent" value="3085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-=======
-    <option name="totallyTimeSpent" value="13775000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="7" />
-    <editor active="true" />
-    <layout>
       <window_info id="Image Layers" />
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
       <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-<<<<<<< HEAD
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-=======
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3283582" />
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-<<<<<<< HEAD
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.18526544" />
-=======
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2371476" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.15754561" />
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" weight="0.32995737" />
       <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" weight="0.32995737" />
-      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="3" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32936078" />
-      <window_info anchor="bottom" id="Database Changes" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.3997833" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Maven" order="0" weight="0.32995737" />
-      <window_info anchor="right" id="Palette" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.32995737" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-<<<<<<< HEAD
-          <url>file://$PROJECT_DIR$/src/ViewTest/ViewBeike1.java</url>
-          <line>14</line>
-=======
-          <url>file://$PROJECT_DIR$/src/ViewTest/ViewBeikeB1.java</url>
-          <line>25</line>
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-<<<<<<< HEAD
-          <url>file://$PROJECT_DIR$/src/ViewTest/ViewBeike3.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-=======
-          <url>file://$PROJECT_DIR$/src/ViewTest/ViewBeikeB4.java</url>
-          <line>54</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ViewTest/Main.java</url>
-          <line>44</line>
-          <properties />
-          <option name="timeStamp" value="7" />
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="((HashMap)map).entrySet().toArray()[0]" custom="java.util.HashMap" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Java$ViewBeike1.ic" NAME="ViewBeike1 Coverage Results" MODIFIED="1565146328787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>ViewTest.*</FILTER>
-    </SUITE>
-  </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/ViewTest/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeikeB2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeikefinal2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeikefinal3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeikefinal1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBaidu2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBaidu3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="248">
+          <caret line="36" column="46" lean-forward="true" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeike1.java">
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewWY.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="25">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeike2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeike3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeike4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeike6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeike5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeike7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="10" selection-end-line="11" selection-end-column="20" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/ViewTest.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Offer66/Problem11.java">
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="123">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Offer66/Problem12.java">
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewYTK2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
+        <state relative-caret-position="50">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewTest/VIewBeikeB3.java">
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewYTK1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="-1375">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeikeB2.java">
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewYTK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeikeB1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeikeB5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewBeikeB4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewTest/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1540">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
->>>>>>> ae3ef098f542ef6bc793edc0db177f13132a44d1
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewWY2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewWY3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/Viewbeikefinal4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewPinDuo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewpinDuo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewTest/ViewpinDuo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
         </state>
       </provider>
     </entry>
