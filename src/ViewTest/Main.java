@@ -1,18 +1,18 @@
 package ViewTest;
 
 
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int n = in.nextInt();
-        if(n<=1)return;
-        int [] nums = new int[n];
-        for(int i=0;i<n;i++){
-            nums[i] = in.nextInt();
-        }
+        Map<Integer, Set<Integer>> amp = new HashMap<>();
+        Set<Integer> set = new HashSet<>();
+        set.add(1);
+        set.add(1);
+        set.add(1);
+        amp.put(1,set);
+        amp.get(1).add(2);
+        System.out.println("test!");
 
     }
 
