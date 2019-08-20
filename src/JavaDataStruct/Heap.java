@@ -22,7 +22,7 @@ public class Heap {
     }
     public  static int findKthLargest(int[] nums, int k) {
         // init heap 'the smallest element first' 小根堆 默认就是小根堆
-        java.util.PriorityQueue<Integer> heap = new PriorityQueue<Integer>((n1, n2) -> n1 - n2);
+        PriorityQueue<Integer> heap = new PriorityQueue<Integer>((n1, n2) -> n1 - n2);
         //大根堆
         //PriorityQueue<Integer> heap = new PriorityQueue<Integer>((n1, n2) -> n2 - n1);
         // keep k largest elements in the heap
