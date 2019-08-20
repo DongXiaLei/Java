@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeba93bc-27c0-4c8f-9fb7-9db3aaf1b986" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/VIewBeikeB3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeikeB1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeikeB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeikeB4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewTest/ViewBeikeB5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="eeba93bc-27c0-4c8f-9fb7-9db3aaf1b986" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="width" value="1938" />
     <option name="height" value="1056" />
@@ -199,15 +191,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565423559066</updated>
-      <workItem from="1565423563827" duration="13775000" />
+      <workItem from="1565423563827" duration="14329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13775000" />
+    <option name="totallyTimeSpent" value="14329000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -225,7 +217,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2371476" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2371476" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.15754561" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
