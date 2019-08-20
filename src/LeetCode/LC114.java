@@ -1,5 +1,7 @@
 package LeetCode;
 
+
+
 /**
  * @author Xialei Dong
  * @version 1.0
